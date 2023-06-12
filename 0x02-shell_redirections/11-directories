@@ -1,2 +1,2 @@
 #!/bin/bash
-wc */
+find . -type d -name -not | wc -l
