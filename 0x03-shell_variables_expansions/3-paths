@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $PASH | tr ":" ":" | wc -l
+echo $PASH | tr ";" ":" | wc -l
